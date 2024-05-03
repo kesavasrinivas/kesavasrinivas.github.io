@@ -1,0 +1,9 @@
+{
+  "routes": [
+    "/about",
+    "/about/feedback",
+    "/about/rating",
+    "/contact",
+    "/home"
+  ]
+}
